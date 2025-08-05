@@ -5,11 +5,13 @@ A simple Python-based command-line To-Do List application built during the Eleva
 ⚙️ Requirements
 - Python 3.x
 - No external libraries needed
+  
 🚀 Features
 - Add tasks
 - View tasks
 - Remove tasks
 - Saves tasks in tasks.txt
+  
 📚 What I Learned
 - File handling (open, read/write modes)
 - List and string operations
