@@ -1,0 +1,21 @@
+# 🛠️ Requirements
+
+- Python 3.x
+- VS Code or any terminal-based Python environment
+
+No external libraries are required. This project uses only built-in Python features like:
+- `open()` for file handling
+- Lists for task storage
+- `.strip()` for string cleanup
+- `try-except` for error handling
+- Basic loops and conditionals
+
+---
+
+## 📦 How to Run
+
+1. Clone the repository or download `todo.py`
+2. Open terminal and navigate to the project folder
+3. Run the script:
+   ```bash
+   python todo.py
